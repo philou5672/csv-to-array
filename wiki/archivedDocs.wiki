@@ -48,7 +48,6 @@ csvAsArray = csvAsString.csvToArray("", "", 1);
 csvAsArray = csvAsString.csvToArray("|", "#", 1);
 }}}
 == Test ==
-*[http://jsfiddle.net/uV3Rf/ Working Demo]*
 <code language="javascript">
 csvAsString = 'Header 1,Header 2,Header 3\r\n'
             + ',"","Test ""Quotes"""\r\n'
