@@ -1,5 +1,5 @@
 #labels Featured
-#archive of csvToArray v1.3 usage documentation
+archive of csvToArray v1.3 usage documentation
 
 = csvToArray v1.3 =
 
