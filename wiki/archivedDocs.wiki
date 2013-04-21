@@ -5,9 +5,6 @@
 
 A compact (506 bytes) but compliant function to convert a CSV string into a 2D array, conforming to the [#RFC4180_Summary RFC4180] standard.
 
-== News ==
-Version 2 complete, will be adding it tomorrow and updating documentation, have fully rewritten, while testing for speed after every change, have increased speed by 100% (halved processing time) and also added features, all separators can now be overridden, option to trim white space added and nicer format for passing options.
-
 == Options ==
 
 || || *Default* || ||
